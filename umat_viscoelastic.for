@@ -1,6 +1,6 @@
 c ======================================================================
 c User Subroutine UMAT for Abaqus viscoelastic material
-c By Irfan Habeeb CN (Technion - IIT)
+c By Irfan Habeeb CN (PhD, Technion - IIT)
 c using the formulation https://imechanica.org/files/Kelvin-Voigt-Code-Development_0.pdf
 c ======================================================================
       subroutine umat(stress,statev,ddsdde,sse,spd,scd,
